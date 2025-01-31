@@ -2,7 +2,14 @@ PERMALINKS
 
 INDEX : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/INDEX.txt
 
+(wednesday , 29 january , 2025)
 PRACTICAL 1 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Factorial.sce
+
+(wednesday , 29 january , 2025)
 PRACTICAL 2 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Fibonacci.sce
+
+(wednesday , 29 january , 2025)
 PRACTICAL 3 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/EvenOdd.sce
+
+(wednesday , 29 january , 2025)
 PRACTICAL 4 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/MatrixOperations.sce
