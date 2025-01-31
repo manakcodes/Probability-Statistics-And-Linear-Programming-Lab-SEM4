@@ -1,9 +1,0 @@
-Probability Statistics and Linear Programming Lab
-
-language : SciLab
-
-INDEX
-# 1 : Factorial -> (wednesday , 29 january , 2025)
-# 2 : Fibonacci Series -> (wednesday , 29 january , 2025)
-# 3 : Sum of even and odd terms from 1 to n -> (wednesday , 29 january , 2025)
-# 4 : Matrix Operations (+ , - , * , transpose(') , determinant() , inverse()) -> (wednesday , 29 january , 2025)
