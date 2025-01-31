@@ -1,0 +1,8 @@
+PERMALINKS
+
+INDEX : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/INDEX.txt
+
+PRACTICAL 1 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Factorial.sce
+PRACTICAL 2 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Fibonacci.sce
+PRACTICAL 3 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/EvenOdd.sce
+PRACTICAL 4 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/MatrixOperations.sce
