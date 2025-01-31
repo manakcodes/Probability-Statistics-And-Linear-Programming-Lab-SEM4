@@ -1,15 +1,27 @@
 PERMALINKS
 
-INDEX : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/INDEX.txt
+INDEX : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/INDEX.txt 
 
-(wednesday , 29 january , 2025)
-PRACTICAL 1 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Factorial.sce
+$$
+# PRACTICAL 1 : 
+DATE : [wednesday , 29 january , 2025]
+AIM : to find the factorial of a number using SciLab.
+LINK : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Factorial.sce
 
-(wednesday , 29 january , 2025)
-PRACTICAL 2 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Fibonacci.sce
+$$
+PRACTICAL 2 :
+DATE : [wednesday , 29 january , 2025]
+AIM : to print the Fibonacci Series till n using SciLab.
+LINK : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/Fibonacci.sce
 
-(wednesday , 29 january , 2025)
-PRACTICAL 3 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/EvenOdd.sce
+$$
+PRACTICAL 3 :
+DATE : [wednesday , 29 january , 2025]
+AIM : to print the sum of first n even and odd numbers using SciLab.
+LINK : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/EvenOdd.sce
 
-(wednesday , 29 january , 2025)
-PRACTICAL 4 : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/MatrixOperations.sce
+$$
+PRACTICAL 4 : 
+DATE : [wednesday , 29 january , 2025]
+AIM : to perform the operations (+ , - , * , trans('') , det() , inv()) on a MATRIX using SciLab.
+LINK : https://github.com/manakcodes/Probability-Statistics-LinearProgramming-Lab/blob/91d687905ab1ef44205e33d95f9e4d5d5fcb07f8/MatrixOperations.sce
