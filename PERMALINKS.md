@@ -1,6 +1,6 @@
 PERMALINKS
 
-SciLab BASICS PDF LINK : [GitHub](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/8e940ca6e638556e40e302c4d498f6cb4a936069/SciLabBasics.pdf)
+SciLab BASICS PDF LINK : [link](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/8e940ca6e638556e40e302c4d498f6cb4a936069/SciLabBasics.pdf)
 
 INDEX : 
 
