@@ -10,8 +10,7 @@ INDEX :
 # PRACTICAL 1 : 
 DATE : [wednesday , 29 january , 2025]   
 AIM : to find the factorial of a number using SciLab.  
-LINK : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/cb57ebeeced58e808da638f48a80debecca4ed63/PRACTICAL_1_Factorial.sce)
-
+LINK : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/e5a949a0817a59ce93d7861348e6332e3dbae00c/PRACTICAL_1_Factorial.sce)
 
 # PRACTICAL 2 :
 DATE : [wednesday , 29 january , 2025]  
