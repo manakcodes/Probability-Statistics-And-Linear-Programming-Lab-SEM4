@@ -17,7 +17,7 @@ THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-L
 DATE : [wednesday , 29 january , 2025]  
 AIM : to print the Fibonacci Series till n using SciLab.  
 CODE : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/cb57ebeeced58e808da638f48a80debecca4ed63/PRACTICAL_2_FibonacciSeries.sce)  
-THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/de3f1423b25658812ce878bc633d1dabc7ca8ddd/PRACTICAL_2_THEORY.pdf)  
+THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/f02c6130dcdd1359a6fa42884166bebfe30e92d8/PRACTICAL_2_THEORY.pdf)  
 
 # PRACTICAL 3 :
 DATE : [wednesday , 29 january , 2025]  
