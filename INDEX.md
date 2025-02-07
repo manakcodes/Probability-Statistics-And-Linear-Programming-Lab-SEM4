@@ -23,7 +23,7 @@ THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-L
 DATE : [wednesday , 29 january , 2025]  
 AIM : to print the sum of first n even and odd numbers using SciLab.  
 CODE : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/cb57ebeeced58e808da638f48a80debecca4ed63/PRACTICAL_3_EvenOddSum.sce)  
-THEORY : [click here]()
+THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/14d18b8c21255ae8289e9818b0c9dcc03004256c/PRACTICAL_3_THEORY.pdf)
 
 
 # PRACTICAL 4 : 
