@@ -8,13 +8,19 @@ disp("     ")
 n = input("enter n : ")
 fact = 1
 
-for i = 1 : n
-    fact = fact * i
+if (n < 0) then
+    disp("factorial of : " , n , "is not defined " , "     ")
+elseif (n == 0 | n == 1) then
+    disp("factorial of : " , n , "is : 1 " , "     ")
+else
+    for i = 1 : n
+        fact = fact * i;
+    end
+    disp("factorial of : " , n , "is : " , fact , "     ")
 end
-
-disp("factorial of : " , n , "is : " , fact , "     ")
 
 disp("DETAILS")
 disp("xxxx")
 disp("xxxx")
 disp("xxxx")
+
