@@ -23,3 +23,8 @@ plot(prob);
 xlabel("NUMBER OF TRIALS");
 ylabel("PROBABILITY OF GETTING THE SUM OF THE DOTS ON THE FACE OF DICE = 3" , "fontsize" , 1);
 xgrid();
+
+disp("DETAILS")
+disp("xxxx")
+disp("xxxx")
+disp("xxxx")
