@@ -33,6 +33,11 @@ ylabel("tanh(x) + acos(x)" , "fontsize" , 3);
 xgrid();
 xtitle("INVERSE AND HYPERBOLIC FUNCTIONS"); 
 
+disp("DETAILS")
+disp("xxxx")
+disp("xxxx")
+disp("xxxx")
+
 
 
 
