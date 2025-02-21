@@ -30,21 +30,19 @@ THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-L
 DATE : [wednesday , 19 february , 2025]  
 AIM : to plot the graphs of Trigonometric Functions (sin(x) , cos(x)) , Exponential Function (e^x) , Absolute Function (|x|) , Inverse and Hyperbolic Functions (tanh(x) + acos(x)) using SciLab.      
 CODE : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/589f666f9e6e391688c125471ec73dae2b2d8050/Code/PRACTICAL_5_FunctionsGraph.sce)  
-THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/6b29eaf211f1467fdb2366ea7bcc8f3b83f6e0c0/Theory/PRACTICAL_5_THEORY.pdf)   
+THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/ae16c6ad8002304b9db21868ccc3777fd7fafdfb/Theory/PRACTICAL_5_THEORY.pdf)  
 
 ## PRACTICAL 6 : 
 DATE : [wednesday , 19 february , 2025]  
 AIM : to estimate the probability of rolling a sum of 3 with two dice and plotting their graph using Scilab.  
 CODE : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/589f666f9e6e391688c125471ec73dae2b2d8050/Code/PRACTICAL_6_DiceProbability.sce)  
-THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/6b29eaf211f1467fdb2366ea7bcc8f3b83f6e0c0/Theory/PRACTICAL_6_THEORY.pdf)  
+THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/ae16c6ad8002304b9db21868ccc3777fd7fafdfb/Theory/PRACTICAL_6_THEORY.pdf)  
 
 ## PRACTICAL 7 : 
 DATE : [wednesday , 19 february , 2025]  
 AIM : to compute, display, and plot the binomial distribution for given values of (n = number of trials) and (p = probability of getting success) in Scilab.  
 CODE : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/8b4fe9e0a34760962529a2f02334f495a67c14e7/Code/PRACTICAL_7_BinomialDistribution.sce)  
-THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/6b29eaf211f1467fdb2366ea7bcc8f3b83f6e0c0/Theory/PRACTICAL_7_THEORY.pdf)  
-
-
+THEORY : [click here](https://github.com/manakcodes/Probability-Statistics-And-Linear-Programming-Lab-SEM4/blob/ae16c6ad8002304b9db21868ccc3777fd7fafdfb/Theory/PRACTICAL_7_THEORY.pdf)  
 
 
 
